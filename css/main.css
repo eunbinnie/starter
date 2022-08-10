@@ -1,5 +1,5 @@
-div {
-  width: 500px;
-  height: 500px;
-  background: url("/images/logo.png");
+body {
+  width: 200px;
+  height: 100px;
+  background-color: rgb(229, 184, 100);
 }
